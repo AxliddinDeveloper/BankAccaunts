@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\My Projects\BankAccaunts\bin\Debug\net7.0\BankAccaunts.exe
+C:\Users\User\Desktop\My Projects\BankAccaunts\bin\Debug\net7.0\BankAccaunts.deps.json
+C:\Users\User\Desktop\My Projects\BankAccaunts\bin\Debug\net7.0\BankAccaunts.runtimeconfig.json
+C:\Users\User\Desktop\My Projects\BankAccaunts\bin\Debug\net7.0\BankAccaunts.dll
+C:\Users\User\Desktop\My Projects\BankAccaunts\bin\Debug\net7.0\BankAccaunts.pdb
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\BankAccaunts.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\BankAccaunts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\BankAccaunts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\BankAccaunts.AssemblyInfo.cs
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\BankAccaunts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\BankAccaunts.dll
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\refint\BankAccaunts.dll
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\BankAccaunts.pdb
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\BankAccaunts.genruntimeconfig.cache
+C:\Users\User\Desktop\My Projects\BankAccaunts\obj\Debug\net7.0\ref\BankAccaunts.dll
