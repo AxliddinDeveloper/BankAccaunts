@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\Desktop\\BankAccaunts\\BankAccaunts.csproj": {}
+    "C:\\Users\\User\\Desktop\\BankAccaunts\\BankAccaunts.csproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\Desktop\\BankAccaunts\\BankAccaunts.csproj": {
+    "C:\\Users\\User\\Desktop\\BankAccaunts\\BankAccaunts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\Desktop\\BankAccaunts\\BankAccaunts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\BankAccaunts\\BankAccaunts.csproj",
         "projectName": "BankAccaunts",
-        "projectPath": "c:\\Users\\User\\Desktop\\BankAccaunts\\BankAccaunts.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\BankAccaunts\\BankAccaunts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\User\\Desktop\\BankAccaunts\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\BankAccaunts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
